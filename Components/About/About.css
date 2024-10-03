@@ -1,0 +1,39 @@
+.body{
+    width: 100%;
+    background-color: white;
+}
+
+.about-container {
+    display: flex; 
+    justify-content: center; 
+    height: 100%;
+    text-align: center; 
+    padding: 20px; 
+}
+
+
+.about-logo{
+    height: 70px;
+    width:70px;
+}
+
+.about-heading {
+    max-width: 600px; 
+    margin-top: 20px;
+}
+
+.about-about {
+    font-size: 26px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+}
+
+.about-text{
+   
+        font-family: "Lato", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        margin-top: 10px;
+    
+      
+}

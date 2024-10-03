@@ -1,0 +1,11 @@
+.mySwiper {
+    height: 400px; /* Adjust this value as needed */
+  }
+  
+  .mySwiper .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px; /* Adjust font size as needed */
+   
+  }
